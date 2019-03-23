@@ -1,0 +1,4 @@
+
+git add madeleine.txt
+exit()
+git commit
